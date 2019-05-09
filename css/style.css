@@ -1,0 +1,33 @@
+*
+#wrapper {
+  width: 1300px;
+  text-align: center;
+  margin: auto;
+}
+
+#heading {
+  width: 1300px;
+  height: 100px;
+  background-color: lightblue;
+  padding-top: 30px;
+  text-align: center;
+}
+
+#images {
+  width: 1300px;
+  height: 440px;
+  background-color: lightblue;
+  margin: 20px;
+}
+
+.picImage {
+  height: 400px;
+  width: 400px;
+  float: left;
+  padding: 5px;
+}
+
+h1 {
+  font-family: 'Gugi', cursive;
+  font-weight: 900;
+}
